@@ -21,7 +21,7 @@ CyberPersona is a simple, open-source Python tool that generates fake but realis
 
 > 🖥️ No Python required — just run it!
 
-👉 [**Download CyberPersona.exe**](https://github.com/your-username/CyberPersona/releases/latest/download/CyberPersona.exe)
+👉 [**Download CyberPersona.exe**]([https://github.com/your-username/CyberPersona/releases/latest/download/CyberPersona.exe](https://github.com/invaderAs/CyberPersona/releases/download/v1.0/CyberPersona.exe))
 
 ---
 
